@@ -29,3 +29,12 @@ body{
 #container h1{
     font-size: 20px;
 }
+
+#footer{
+    background-color: darkolivegreen;
+    color: white;
+    text-align: center;
+}
+#footer h4{
+    padding: 2%;
+}
